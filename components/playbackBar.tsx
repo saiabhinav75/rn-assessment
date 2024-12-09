@@ -1,10 +1,11 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function library() {
+
+export default function playbackBar() {
   return (
-    <View>
-      <Text>library</Text>
+    <View style={{}} >
+      
     </View>
   )
 }
